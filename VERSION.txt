@@ -1,5 +1,0 @@
-RESMINAMA SED 0.3.0 — build 3
-2026-09-26
-Frame-007 graphical approval workspace
-Database schema 4 (unchanged from build 2)
-Local Windows release
